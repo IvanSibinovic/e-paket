@@ -79,6 +79,11 @@ ul li:hover a {
 	color: white;
 }
 
+.flag {
+	max-height: 20px;
+    max-width: 20px;
+}
+
 .toggle {
 	width: 100%;
 	background-color: #fff;
@@ -168,8 +173,10 @@ ul li:hover a {
 
 #services {
 	margin-top: 3rem;
-	margin-bottom: 6rem;
+	margin-bottom: 3rem;
 	font-family: 'Exo', sans-serif;
+	background-color: #fff;
+	padding-bottom: 3rem;
 }
 
 .sectionHeader {
